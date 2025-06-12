@@ -118,7 +118,7 @@
         <mxCell id="S0HeuNQOIF_BDSknrNHu-42" value="区县尺度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="380" width="104" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S0HeuNQOIF_BDSknrNHu-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="S0HeuNQOIF_BDSknrNHu-43" value="生态系统服务间的权衡与协同" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="480" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
