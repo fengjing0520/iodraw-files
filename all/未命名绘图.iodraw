@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="S0HeuNQOIF_BDSknrNHu-1" value="优化管理" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1030" width="120" height="80" as="geometry" />
+          <mxGeometry x="20" y="930" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S0HeuNQOIF_BDSknrNHu-2" value="数据基础" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="100" width="120" height="80" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="30" y="545" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S0HeuNQOIF_BDSknrNHu-5" value="驱动机理" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="930" width="120" height="80" as="geometry" />
+          <mxGeometry x="20" y="730" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S0HeuNQOIF_BDSknrNHu-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="180" y="50" width="560" height="140" as="geometry" />
