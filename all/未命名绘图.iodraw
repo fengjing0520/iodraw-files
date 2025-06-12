@@ -11,67 +11,67 @@
           <mxGeometry x="-20" y="20" width="970" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-2" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry y="70" width="100" height="70" as="geometry" />
+          <mxGeometry y="70" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-3" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="80" width="100" height="70" as="geometry" />
+          <mxGeometry x="-10" y="80" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-4" value="Land use" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="90" width="100" height="70" as="geometry" />
+          <mxGeometry x="-20" y="90" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-5" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="70" width="100" height="70" as="geometry" />
+          <mxGeometry x="140" y="70" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-6" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="80" width="100" height="70" as="geometry" />
+          <mxGeometry x="130" y="80" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-7" value="DEM" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="90" width="100" height="70" as="geometry" />
+          <mxGeometry x="120" y="90" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-8" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="70" width="100" height="70" as="geometry" />
+          <mxGeometry x="280" y="70" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-9" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="80" width="100" height="70" as="geometry" />
+          <mxGeometry x="270" y="80" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-10" value="NDVI" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="90" width="100" height="70" as="geometry" />
+          <mxGeometry x="260" y="90" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-11" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="70" width="100" height="70" as="geometry" />
+          <mxGeometry x="420" y="70" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-12" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="80" width="100" height="70" as="geometry" />
+          <mxGeometry x="410" y="80" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-13" value="Night light data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="90" width="100" height="70" as="geometry" />
+          <mxGeometry x="400" y="90" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-14" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="70" width="100" height="70" as="geometry" />
+          <mxGeometry x="560" y="70" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-15" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="80" width="100" height="70" as="geometry" />
+          <mxGeometry x="550" y="80" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-16" value="Soil data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="90" width="100" height="70" as="geometry" />
+          <mxGeometry x="540" y="90" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-17" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="70" width="100" height="70" as="geometry" />
+          <mxGeometry x="700" y="70" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-18" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="80" width="100" height="70" as="geometry" />
+          <mxGeometry x="690" y="80" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-19" value="Weather data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="90" width="100" height="70" as="geometry" />
+          <mxGeometry x="680" y="90" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-21" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="70" width="100" height="70" as="geometry" />
+          <mxGeometry x="840" y="70" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-22" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="80" width="100" height="70" as="geometry" />
+          <mxGeometry x="830" y="80" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-23" value="Weather data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="90" width="100" height="70" as="geometry" />
+          <mxGeometry x="820" y="90" width="99" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
