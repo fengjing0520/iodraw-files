@@ -22,7 +22,7 @@
         <mxCell id="ZotRMrEsIUjOxRWeTOdK-8" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="90" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-9" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-9" value="DEM" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="100" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZotRMrEsIUjOxRWeTOdK-10" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
         <mxCell id="ZotRMrEsIUjOxRWeTOdK-11" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="90" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-12" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-12" value="NDVI" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="100" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZotRMrEsIUjOxRWeTOdK-13" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
