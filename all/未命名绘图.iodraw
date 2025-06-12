@@ -79,6 +79,9 @@
         <mxCell id="S0HeuNQOIF_BDSknrNHu-27" value="生态系统服务供给评估" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="330" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="S0HeuNQOIF_BDSknrNHu-28" value="生态系统服务需求评估" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
