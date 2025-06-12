@@ -4,70 +4,70 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry y="60" width="870" height="150" as="geometry" />
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry y="60" width="870" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-5" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-5" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="30" y="80" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-6" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-6" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="20" y="90" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-4" value="Land use" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-4" value="Land use" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="10" y="100" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-7" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-7" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="150" y="80" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-8" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-8" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="140" y="90" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-9" value="DEM" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-9" value="DEM" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="130" y="100" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-10" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-10" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="270" y="80" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-11" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-11" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="260" y="90" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-12" value="NDVI" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-12" value="NDVI" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="250" y="100" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-13" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-13" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="390" y="80" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-14" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-14" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="380" y="90" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-15" value="Night light data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-15" value="Night light data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="370" y="100" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-16" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-16" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="510" y="80" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-17" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-17" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="500" y="90" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-18" value="Soil data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-18" value="Soil data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="490" y="100" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-19" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-19" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="630" y="80" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-20" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-20" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="620" y="90" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-21" value="Weather data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-21" value="Weather data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="610" y="100" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-22" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-22" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="750" y="80" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-23" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-23" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="740" y="90" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZotRMrEsIUjOxRWeTOdK-24" value="Statistical Yearbook" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-24" value="Statistical Yearbook" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="730" y="100" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
