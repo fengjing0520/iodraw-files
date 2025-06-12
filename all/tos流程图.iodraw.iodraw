@@ -130,7 +130,7 @@
         <mxCell id="S0HeuNQOIF_BDSknrNHu-51" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="220" y="700" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S0HeuNQOIF_BDSknrNHu-52" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="S0HeuNQOIF_BDSknrNHu-52" value="社会生态因素" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="705" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
