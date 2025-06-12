@@ -121,6 +121,24 @@
         <mxCell id="ZotRMrEsIUjOxRWeTOdK-46" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-size: 12px; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt; Net Primary Productivity&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="707" y="360" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-47" value="Water Yielding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-48" value="&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgba(0, 0, 0, 0.9); font-size: 12px; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; letter-spacing: 0px; text-align: start; white-space-collapse: preserve;&quot;&gt;Soil Retention&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="170" y="290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-49" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-size: 12px; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Habitat Quality&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="314" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-50" value="Urban Cooling" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-51" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-size: 12px; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;PM2.5 Removal&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZotRMrEsIUjOxRWeTOdK-52" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-size: 12px; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt; Net Primary Productivity&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="314" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
