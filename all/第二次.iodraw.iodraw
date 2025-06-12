@@ -14,16 +14,16 @@
           <mxGeometry x="30" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QKlhMubuSS0XKoyAd827-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14" y="160" width="400" height="50" as="geometry" />
+          <mxGeometry x="10" y="180" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKlhMubuSS0XKoyAd827-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="160" width="400" height="50" as="geometry" />
+          <mxGeometry x="416" y="180" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKlhMubuSS0XKoyAd827-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4" y="210" width="410" height="100" as="geometry" />
+          <mxGeometry y="230" width="410" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QKlhMubuSS0XKoyAd827-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="210" width="390" height="100" as="geometry" />
+          <mxGeometry x="416" y="230" width="390" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
