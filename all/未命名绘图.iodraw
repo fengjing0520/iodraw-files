@@ -85,13 +85,13 @@
         <mxCell id="S0HeuNQOIF_BDSknrNHu-29" value="土壤保持" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="260" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S0HeuNQOIF_BDSknrNHu-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S0HeuNQOIF_BDSknrNHu-30" value="NPP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="410" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S0HeuNQOIF_BDSknrNHu-31" value="生境质量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="305" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S0HeuNQOIF_BDSknrNHu-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S0HeuNQOIF_BDSknrNHu-32" value="PM2.5去除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="390" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="S0HeuNQOIF_BDSknrNHu-33" value="热岛调节" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
