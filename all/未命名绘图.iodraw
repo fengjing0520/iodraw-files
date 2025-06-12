@@ -7,7 +7,7 @@
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
           <mxGeometry y="60" width="890" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Yxzb8K0PxgPlmwnG_O7s-1" value="Basic data" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="Yxzb8K0PxgPlmwnG_O7s-1" value="Basic data" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry y="30" width="890" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-2" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-23" value="Statistical Yearbook" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="780" y="100" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Yxzb8K0PxgPlmwnG_O7s-24" value="Basic data" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="890" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
