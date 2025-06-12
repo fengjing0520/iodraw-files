@@ -7,6 +7,15 @@
         <mxCell id="S0HeuNQOIF_BDSknrNHu-1" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="70" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="S0HeuNQOIF_BDSknrNHu-2" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S0HeuNQOIF_BDSknrNHu-3" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S0HeuNQOIF_BDSknrNHu-4" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
