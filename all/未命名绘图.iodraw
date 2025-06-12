@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="S0HeuNQOIF_BDSknrNHu-1" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="120" height="80" as="geometry" />
+          <mxGeometry x="20" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S0HeuNQOIF_BDSknrNHu-2" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="360" width="120" height="80" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="30" y="950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S0HeuNQOIF_BDSknrNHu-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="170" y="110" width="560" height="140" as="geometry" />
+          <mxGeometry x="180" y="50" width="560" height="140" as="geometry" />
         </mxCell>
         <mxCell id="S0HeuNQOIF_BDSknrNHu-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="170" y="280" width="560" height="140" as="geometry" />
