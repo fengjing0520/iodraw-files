@@ -20,31 +20,31 @@
           <mxGeometry x="-20" y="90" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-5" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="70" width="90" height="70" as="geometry" />
+          <mxGeometry x="130" y="70" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-6" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="80" width="90" height="70" as="geometry" />
+          <mxGeometry x="120" y="80" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-7" value="DEM" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="90" width="90" height="70" as="geometry" />
+          <mxGeometry x="110" y="90" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-8" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="70" width="90" height="70" as="geometry" />
+          <mxGeometry x="260" y="70" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-9" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="80" width="90" height="70" as="geometry" />
+          <mxGeometry x="250" y="80" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-10" value="NDVI" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="90" width="90" height="70" as="geometry" />
+          <mxGeometry x="240" y="90" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-11" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="70" width="90" height="70" as="geometry" />
+          <mxGeometry x="390" y="60" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-12" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="80" width="90" height="70" as="geometry" />
+          <mxGeometry x="380" y="70" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-13" value="Night light data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="90" width="90" height="70" as="geometry" />
+          <mxGeometry x="370" y="80" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-14" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="70" width="90" height="70" as="geometry" />
