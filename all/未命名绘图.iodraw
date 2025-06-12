@@ -38,22 +38,22 @@
           <mxGeometry x="240" y="90" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-11" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="60" width="90" height="70" as="geometry" />
+          <mxGeometry x="390" y="70" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-12" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="70" width="90" height="70" as="geometry" />
+          <mxGeometry x="380" y="80" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-13" value="Night light data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="80" width="90" height="70" as="geometry" />
+          <mxGeometry x="370" y="90" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-14" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="70" width="90" height="70" as="geometry" />
+          <mxGeometry x="520" y="70" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-15" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="80" width="90" height="70" as="geometry" />
+          <mxGeometry x="510" y="80" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-16" value="Soil data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="90" width="90" height="70" as="geometry" />
+          <mxGeometry x="500" y="90" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-17" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="70" width="90" height="70" as="geometry" />
