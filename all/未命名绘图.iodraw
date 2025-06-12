@@ -26,7 +26,7 @@
           <mxGeometry x="190" y="210" width="570" height="240" as="geometry" />
         </mxCell>
         <mxCell id="S0HeuNQOIF_BDSknrNHu-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="200" y="460" width="560" height="140" as="geometry" />
+          <mxGeometry x="200" y="460" width="590" height="180" as="geometry" />
         </mxCell>
         <mxCell id="S0HeuNQOIF_BDSknrNHu-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="190" y="690" width="560" height="140" as="geometry" />
@@ -117,6 +117,9 @@
         </mxCell>
         <mxCell id="S0HeuNQOIF_BDSknrNHu-42" value="区县尺度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="380" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S0HeuNQOIF_BDSknrNHu-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="480" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
