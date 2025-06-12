@@ -67,8 +67,11 @@
         <mxCell id="S0HeuNQOIF_BDSknrNHu-22" value="社会经济等其他统计数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="100" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="S0HeuNQOIF_BDSknrNHu-23" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="S0HeuNQOIF_BDSknrNHu-23" value="其他辅助数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S0HeuNQOIF_BDSknrNHu-25" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="90" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
