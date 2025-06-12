@@ -73,8 +73,8 @@
         <mxCell id="Yxzb8K0PxgPlmwnG_O7s-23" value="Statistical Yearbook" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="780" y="100" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Yxzb8K0PxgPlmwnG_O7s-24" value="Basic data" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="10" y="40" width="890" height="30" as="geometry" />
+        <mxCell id="Yxzb8K0PxgPlmwnG_O7s-24" value="Spatial-temporal evaluation of ESs supply and demand" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry y="180" width="890" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
