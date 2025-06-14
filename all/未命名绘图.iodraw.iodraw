@@ -7,8 +7,17 @@
         <mxCell id="-Z3B_oGmq-HoHO64kVn4-657" value="自然资源" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="420" y="380" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-Z3B_oGmq-HoHO64kVn4-659" value="&#xa;&lt;span style=&quot;font-size:16.0pt;font-family:仿宋_GB2312;&#xa;mso-hansi-font-family:仿宋_GB2312;mso-bidi-font-family:仿宋_GB2312;color:#C00000;&#xa;background:aqua;mso-highlight:aqua;mso-font-kerning:1.0pt;mso-ansi-language:&#xa;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;有政治（反映人民意愿）、经济、社会、生态、文化、安全等多样化属性、价值和功能&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Z3B_oGmq-HoHO64kVn4-659" value="" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="300" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-Z3B_oGmq-HoHO64kVn4-660" value="" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-Z3B_oGmq-HoHO64kVn4-661" value="" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="510" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-Z3B_oGmq-HoHO64kVn4-662" value="" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="320" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
