@@ -74,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-11" value="山东段沿京杭运河生态系统质量评估指标体系与方法" style="rounded=0;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="620" y="530" width="130" height="60" as="geometry" />
+          <mxGeometry x="620" y="520" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-12" target="YY_wwfblrT3y8FLs1M0t-14">
           <mxGeometry relative="1" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="90" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-14" value="典型区域生态系统质量评价与分析" style="rounded=0;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="385" y="630" width="250" height="60" as="geometry" />
+          <mxGeometry x="385" y="640" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.592;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-3" target="YY_wwfblrT3y8FLs1M0t-5">
           <mxGeometry relative="1" as="geometry" />
