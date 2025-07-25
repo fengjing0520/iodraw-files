@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YY_wwfblrT3y8FLs1M0t-39" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="30" y="70" width="810" height="660" as="geometry" />
+          <mxGeometry x="40" y="70" width="780" height="660" as="geometry" />
         </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-1" target="YY_wwfblrT3y8FLs1M0t-3">
           <mxGeometry relative="1" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-2" value="生态环境管理需求分析" style="rounded=0;whiteSpace=wrap;fontFamily=Courier New;fontSize=16;labelBackgroundColor=none;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="560" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-3" target="YY_wwfblrT3y8FLs1M0t-4">
           <mxGeometry relative="1" as="geometry" />
