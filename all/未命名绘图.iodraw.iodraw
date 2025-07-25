@@ -25,7 +25,7 @@
         <mxCell id="YY_wwfblrT3y8FLs1M0t-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-4" target="YY_wwfblrT3y8FLs1M0t-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YY_wwfblrT3y8FLs1M0t-4" value="省域及各市生态系统质量评估" style="rounded=0;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="YY_wwfblrT3y8FLs1M0t-4" value="省域及各市生态系统质量评估" style="rounded=0;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="90" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-5" target="YY_wwfblrT3y8FLs1M0t-7">
@@ -37,7 +37,7 @@
         <mxCell id="YY_wwfblrT3y8FLs1M0t-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-5" target="YY_wwfblrT3y8FLs1M0t-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YY_wwfblrT3y8FLs1M0t-5" value="典型区域生态系统质量评估" style="rounded=0;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="YY_wwfblrT3y8FLs1M0t-5" value="典型区域生态系统质量评估" style="rounded=0;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="450" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-6" target="YY_wwfblrT3y8FLs1M0t-13">
