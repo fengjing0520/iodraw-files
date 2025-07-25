@@ -19,7 +19,7 @@
         <mxCell id="YY_wwfblrT3y8FLs1M0t-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-3" target="YY_wwfblrT3y8FLs1M0t-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YY_wwfblrT3y8FLs1M0t-3" value="确定生态系统质量评价范围" style="rounded=0;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="YY_wwfblrT3y8FLs1M0t-3" value="确定生态系统质量评价范围" style="rounded=0;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-4" target="YY_wwfblrT3y8FLs1M0t-6">
