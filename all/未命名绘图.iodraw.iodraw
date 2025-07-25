@@ -13,7 +13,7 @@
         <mxCell id="YY_wwfblrT3y8FLs1M0t-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-2" target="YY_wwfblrT3y8FLs1M0t-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YY_wwfblrT3y8FLs1M0t-2" value="生态环境管理需求分析" style="rounded=0;whiteSpace=wrap;fontFamily=Courier New;fontSize=16;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="YY_wwfblrT3y8FLs1M0t-2" value="生态环境管理需求分析" style="rounded=0;whiteSpace=wrap;fontFamily=Courier New;fontSize=16;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-3" target="YY_wwfblrT3y8FLs1M0t-4">
@@ -82,10 +82,10 @@
         <mxCell id="YY_wwfblrT3y8FLs1M0t-12" value="黄河三角洲生态系统质量评估指标体系与方法" style="rounded=0;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="450" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YY_wwfblrT3y8FLs1M0t-13" value="省域及各市生态系统质量评价与分析" style="rounded=0;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="YY_wwfblrT3y8FLs1M0t-13" value="省域及各市生态系统质量评价与分析" style="rounded=0;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="90" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YY_wwfblrT3y8FLs1M0t-14" value="典型区域生态系统质量评价与分析" style="rounded=0;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="YY_wwfblrT3y8FLs1M0t-14" value="典型区域生态系统质量评价与分析" style="rounded=0;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="385" y="640" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.592;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-3" target="YY_wwfblrT3y8FLs1M0t-5">
