@@ -22,11 +22,19 @@
         <mxCell id="YY_wwfblrT3y8FLs1M0t-3" value="确定生态环境质量评价范围" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YY_wwfblrT3y8FLs1M0t-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-4" target="YY_wwfblrT3y8FLs1M0t-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-4" value="省域及各市生态系统质量评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-5" value="典型区域生态系统质量评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YY_wwfblrT3y8FLs1M0t-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-6" value="省域及各市生态系统质量评估指标体系与方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="414" width="120" height="60" as="geometry" />
