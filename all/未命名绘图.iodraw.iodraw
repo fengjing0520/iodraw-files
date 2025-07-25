@@ -46,11 +46,20 @@
         <mxCell id="YY_wwfblrT3y8FLs1M0t-6" value="省域及各市生态系统质量评估指标体系与方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="414" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YY_wwfblrT3y8FLs1M0t-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-7" target="YY_wwfblrT3y8FLs1M0t-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-7" value="沂蒙山区域生态系统质量评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YY_wwfblrT3y8FLs1M0t-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-8" target="YY_wwfblrT3y8FLs1M0t-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-8" value="生态系统质量评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YY_wwfblrT3y8FLs1M0t-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YY_wwfblrT3y8FLs1M0t-9" target="YY_wwfblrT3y8FLs1M0t-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YY_wwfblrT3y8FLs1M0t-9" value="山东段沿京杭运河生态系统质量评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="390" width="120" height="60" as="geometry" />
